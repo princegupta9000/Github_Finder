@@ -3,7 +3,9 @@ function About() {
     <>
       <h1 className="text-6xl mb-4">Github Finder</h1>
       <p className="mb-4 text-2xl font-light">
-        A React app to search GitHub profiles and see profile details. This
+      A React app to search GitHub profiles and see profile details.
+      <h3>Made By Prince Gupta From Udemy.</h3>
+      {/* A React app to search GitHub profiles and see profile details. This
         project is part of the
         <a href="https://www.udemy.com/course/modern-react-front-to-back/">
           React Front To Back
@@ -21,7 +23,7 @@ function About() {
         Layout By:
         <a className="text-white" href="https://twitter.com/hassibmoddasser">
           Hassib Moddasser
-        </a>
+        </a> */}
       </p>
     </>
   );
