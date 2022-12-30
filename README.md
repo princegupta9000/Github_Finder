@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+In This Project We use Tailwindcss and daisyui for the css.
+
+Tailwindcss - https://tailwindui.com/
+daisyui     - https://daisyui.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
